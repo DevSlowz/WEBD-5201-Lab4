@@ -1,6 +1,5 @@
 class MainController < ApplicationController
   def index
-    # flash[:notice] = 'Login Succesful'
-    # flash[:alert] = 'Invalid email or password'
-  end
-end
+    
+  end # This 'end' closes the index action
+end # This 'end' closes the class definition
